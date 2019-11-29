@@ -1,0 +1,15 @@
+# RxSwift
+github "ReactiveX/RxSwift" ~> 5.0
+
+# Realm
+github "realm/realm-cocoa"
+
+# SwiftDate
+github "malcommac/SwiftDate" ~> 6.0.3
+
+# SwiftMessages
+github "SwiftKickMobile/SwiftMessages"
+
+
+# SwifterSwift
+github "SwifterSwift/SwifterSwift" ~> 5.0

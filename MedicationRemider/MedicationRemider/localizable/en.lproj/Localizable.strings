@@ -1,0 +1,31 @@
+/* 
+  localizable.strings
+  MedicationRemider
+
+  Created by tinh.nguyen on 11/27/19.
+  Copyright © 2019 Tinh Nguyen. All rights reserved.
+*/
+
+/*============= COMMON STRINGS =============== */
+"common.and"      = "And";
+"common.cancel"   = "Cancel";
+"common.confirm"  = "Confirm";
+"common.continue" = "Continue";
+"common.delete"   = "Delete";
+"common.ok"       = "OK";
+"common.no"       = "No";
+"common.yes"      = "Yes";
+"common.today"    = "Today";
+"common.tomorrow" = "Tomorrow";
+"common.search"   = "Search";
+"common.loading"  = "Loading...";
+
+/*============= ONBOARDING SCREEN STRINGS =============== */
+"onboarding.first_screen.title" = "Medication Remider.";
+"onboarding.first_screen.description" = "Medication Remider is the all-in-one app you need to take control of medicine!";
+
+"onboarding.second_screen.title" = "Powerful Reminder.";
+"onboarding.second_screen.description" = "Set reminders to let us notify you to complete your daily goals.";
+
+"onboarding.third_screen.title" = "Flexible Scheduling.";
+"onboarding.third_screen.description" = "You can schedule on your time.";
